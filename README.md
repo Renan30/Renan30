@@ -1,3 +1,3 @@
 <h1> 👋 Hi, I’m @Renan30 </h1>
-* 👀 I’m interested in Python Development
-* My main account is: https://github.com/renan-augusto3850
+<p>👀 I’m interested in Python Development</p>
+<p>My main account is:</p> https://github.com/renan-augusto3850
